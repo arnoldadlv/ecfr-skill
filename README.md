@@ -20,7 +20,7 @@ No authentication required -- it wraps the public eCFR API.
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/arnolddelavega/ecfr-skill.git ~/.claude/skills/ecfr
+git clone https://github.com/arnoldadlv/ecfr-skill.git ~/.claude/skills/ecfr
 ```
 
 That's it. Claude Code picks up skills from `~/.claude/skills/` automatically.
