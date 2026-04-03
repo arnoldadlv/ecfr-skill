@@ -39,7 +39,3 @@ That's it. Claude Code picks up skills from `~/.claude/skills/` automatically.
 - "Search DFARS for cybersecurity incident reporting requirements"
 - "Has 48 CFR Part 252 changed since January 2025?"
 - "Which agencies own CFR Title 32?"
-
-## License
-
-MIT
